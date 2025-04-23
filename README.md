@@ -1,5 +1,3 @@
-- Hello, I am Nathan Nguyen a student at GGC and currently finishing a degree in Software Development.
+- Hello, I am Nathan Nguyen, I have a degree in Software Development.
 - I'm interested in coding, and problem solving using technology!
-- Currently Learning Java and Python
-- Looking for any internship within my area
 - Contact me via Email: NathanNguyenq@gmail.com
